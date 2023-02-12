@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "preview": "https://thumb.tildacdn.com/stor6531-3139-4435-b365-653562306137/-/resize/800x800/-/format/webp/98058636.jpg",
+      "title": "Рюкзак «Для умных и свободных»",
+      "description": "Поместится и ноутбук, и худи. У рюкзака широкие красные лямки и светоотражающие элементы — вас заметят и днём, и ночью.",
+      "images": [
+        "https://thumb.tildacdn.com/stor6531-3139-4435-b365-653562306137/-/resize/800x800/-/format/webp/98058636.jpg",
+        "http://qa-games.ru/astore/public/images/15586005.jpeg",
+        "http://qa-games.ru/astore/public/images/45862782.jpeg",
+        "http://qa-games.ru/astore/public/images/75259815.jpeg"
+      ],
+      "price": 4999,
+      "availability": true
+    },
+    {
+      "id": 1,
+      "preview": "https://thumb.tildacdn.com/stor6635-6331-4332-b432-366132663262/-/resize/800x800/-/format/webp/68519498.jpg",
+      "title": "Футболка Для умных и свободных",
+      "description": "Поместится и ноутбук, и худи. У рюкзака широкие красные лямки и светоотражающие элементы — вас заметят и днём, и ночью.",
+      "images": [
+        "http://qa-games.ru/astore/public/images/68519498.jpeg",
+        "http://qa-games.ru/astore/public/images/56653281.jpeg",
+        "http://qa-games.ru/astore/public/images/22582542.jpeg"
+      ],
+      "price": 1999,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "preview": "https://thumb.tildacdn.com/stor6634-3936-4132-a238-306134393530/-/resize/800x800/-/format/webp/77117755.jpg",
+      "title": "Блокнот Для умных и свободных",
+      "description": "Поместится и ноутбук, и худи. У рюкзака широкие красные лямки и светоотражающие элементы — вас заметят и днём, и ночью.",
+      "images": [
+        "http://qa-games.ru/astore/public/images/77117755.jpeg",
+        "http://qa-games.ru/astore/public/images/13519755.jpeg"
+      ],
+      "price": 1499,
+      "availability": true
+    },
+    {
+      "id": 3,
+      "preview": "https://thumb.tildacdn.com/stor3861-3430-4564-a334-383737386465/-/resize/800x800/-/format/webp/15932051.jpg",
+      "title": "Чехол с кардхолдером",
+      "description": "Поместится и ноутбук, и худи. У рюкзака широкие красные лямки и светоотражающие элементы — вас заметят и днём, и ночью.",
+      "images": [
+        "http://qa-games.ru/astore/public/images/15932051.jpeg",
+        "http://qa-games.ru/astore/public/images/83549212.jpeg"
+      ],
+      "price": 799,
+      "availability": false
+    },
+    {
+      "id": 4,
+      "preview": "https://thumb.tildacdn.com/stor3235-6365-4437-a261-613631646536/-/resize/800x800/-/format/webp/56369345.jpg",
+      "title": "Экоручка",
+      "description": "Поместится и ноутбук, и худи. У рюкзака широкие красные лямки и светоотражающие элементы — вас заметят и днём, и ночью.",
+      "images": [
+        "http://qa-games.ru/astore/public/images/56369345.jpeg",
+        "http://qa-games.ru/astore/public/images/10.jpeg"
+      ],
+      "price": 99,
+      "availability": true
+    }
+  ]
+}
